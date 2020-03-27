@@ -1,0 +1,3 @@
+#contém arquivos que não devem ser mandados para o GitHub
+
+node_modules
